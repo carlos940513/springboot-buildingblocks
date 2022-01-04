@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class MasterResfulApplication {
-
+	//
 	public static void main(String[] args) {
 		SpringApplication.run(MasterResfulApplication.class, args);
 	}

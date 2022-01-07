@@ -1,0 +1,1 @@
+insert into user values(101,'jcem_01@gmail.com','jose','mora','jcem_01@gma.com','DBA','2020');
